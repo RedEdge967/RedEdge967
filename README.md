@@ -17,4 +17,5 @@ and I have a dream of making a Operating System.
 <ul>
   <h3><li>I want to be a Software Engineer one day.</li></h3>
 </ul>
-Thank You!!👋🏻 And Have a Nice day!!!🤝![walkcyclevector24_dribbble](https://user-images.githubusercontent.com/91379432/136664953-e6bfa0ef-d08b-41e5-84fb-926cae8a8012.gif)
+Thank You!!👋🏻 And Have a Nice day!!!🤝<br><br>
+<IMG SRC="https://user-images.githubusercontent.com/91379432/136665453-5dd5ab76-d8a2-4652-8bf2-857dd2b85852.gif">
