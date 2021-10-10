@@ -17,5 +17,7 @@ and I have a dream of making a Operating System.
 <ul>
   <h3><li>I want to be a Software Engineer one day.</li></h3>
 </ul>
+<br>
+<IMG SRC="https://github-readme-stats.vercel.app/api?username=RedEdge967&show_icons=true">
 Thank You!!👋🏻 And Have a Nice day!!!🤝<br><br>
 <IMG SRC="https://user-images.githubusercontent.com/91379432/136665453-5dd5ab76-d8a2-4652-8bf2-857dd2b85852.gif">
