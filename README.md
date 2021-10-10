@@ -8,10 +8,10 @@ and I have a dream of making a Operating System.
 
 <h2>Now I'm Learning👨,🏻‍💻</h2>
 <ul>
-  <h4><li>Python</li>
-  <li>JavaScrpit</li>
-  <li>C++</li>
-  <li>CSS</li></h4>
+  <h4><li>Python</h4> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /></li>
+  <h4><li>JavaScrpit</h4> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></li>
+  <h4><li>C++</h4> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></li>
+  <h4><li>C#</h4> <IMG SRC="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /></li>
 </ul>
 <h1>🌠Dream that comes true🌠....</h1>
 <ul>
