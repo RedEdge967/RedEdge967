@@ -18,6 +18,8 @@ and I have a dream of making a Operating System.
   <h3><li>I want to be a Software Engineer one day.</li></h3>
 </ul>
 <br>
+<IMG SRC="https://github-readme-stats.vercel.app/api?username=RedEdge967&show_icons=true&theme=tokyonight" />
+<IMG SRC="https://github-readme-stats.vercel.app/api/top-langs/?username=RedEdge967&layout=compact&theme=tokyonight" />
 
 Thank You!!👋🏻 And Have a Nice day!!!🤝<br><br>
 <img src="https://user-images.githubusercontent.com/91379432/136691707-1acaf306-b958-4a6f-91ca-e8c1728b270a.gif" width="300" height="300"><br>
