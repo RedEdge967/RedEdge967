@@ -26,3 +26,5 @@ Thank You!!👋🏻 And Have a Nice day!!!🤝<br><br>
 <h3>## 😂 Here is a random joke that'll make you laugh!😂</h3>
 <IMG SRC="https://readme-jokes.vercel.app/api">
   <h3><b><i>Have a very very nice day!!!🌈🌠👋</b></i></h3>
+  
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/RedEdge967?style=social">   <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/RedEdge967/RedEdge967?style=social">   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/RedEdge967?style=social">
