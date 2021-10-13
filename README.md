@@ -19,7 +19,10 @@ and I have a dream of making a Operating System.
 </ul>
 <br>
 <IMG SRC="https://github-readme-stats.vercel.app/api?username=RedEdge967&show_icons=true&theme=tokyonight" />
-<IMG SRC="https://github-readme-stats.vercel.app/api/top-langs/?username=RedEdge967&layout=compact&theme=tokyonight" />
+<IMG SRC="https://github-readme-stats.vercel.app/api/top-langs/?username=RedEdge967&layout=compact&theme=tokyonight" /><br>
+<h2>Show me your Cards</h2>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30" width="30"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" width="30"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" width="30"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" width="30"
+
 
 Thank You!!👋🏻 And Have a Nice day!!!🤝<br><br>
 <img src="https://user-images.githubusercontent.com/91379432/136691707-1acaf306-b958-4a6f-91ca-e8c1728b270a.gif" width="300" height="300"><br>
@@ -27,4 +30,4 @@ Thank You!!👋🏻 And Have a Nice day!!!🤝<br><br>
 <IMG SRC="https://readme-jokes.vercel.app/api">
   <h3><b><i>Have a very very nice day!!!🌈🌠👋</b></i></h3>
   
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/RedEdge967?style=social">   <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/RedEdge967/RedEdge967?style=social">   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/RedEdge967?style=social">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/RedEdge967?style=social">   <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/RedEdge967/RedEdge967?style=social">   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/RedEdge967?style=social"><br>
