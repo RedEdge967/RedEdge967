@@ -24,9 +24,9 @@ and I have a dream of making a Operating System.<br>
 <h1 align="center">🌠Dream that comes true🌠....</h1>
   <h3 align="center">I want to be a Software Engineer one day.</h3>
 <br>
-
+<p align="center">
 <IMG SRC="https://github-readme-stats.vercel.app/api?username=RedEdge967&show_icons=true&theme=tokyonight" />
-<IMG SRC="https://github-readme-stats.vercel.app/api/top-langs/?username=RedEdge967&layout=compact&theme=tokyonight" /><br>
+</p>
 <p align="center">
 <IMG SRC="https://github-profile-trophy.vercel.app/?username=RedEdge967&theme=darkhub">
   </p>
