@@ -25,12 +25,11 @@
 <IMG SRC="https://github-readme-stats.vercel.app/api?username=RedEdge967&show_icons=true&theme=tokyonight" />
 </p>
 <p align="center">
-<IMG SRC="https://github-profile-trophy.vercel.app/?username=RedEdge967&theme=darkhub">
-  </p>
-
-<p align="center">  
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/RedEdge967?style=social">   <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/RedEdge967/RedEdge967?style=social">   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/RedEdge967?style=social"><br>
-  </p>
+<IMG SRC="https://github-profile-trophy.vercel.app/?username=RedEdge967&theme=darkhub"><br>
+</p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RedEdge967&theme=tokyonight" />
+    </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RedEdge967&color=dc143c" align="center"/>
 </p>
