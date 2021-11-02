@@ -25,7 +25,7 @@
 <IMG SRC="https://github-readme-stats.vercel.app/api?username=RedEdge967&show_icons=true&theme=tokyonight" />
 </p>
 <p align="center">
-<IMG SRC="https://github-profile-trophy.vercel.app/?username=RedEdge967&theme=darkhub"><br>
+<IMG SRC="https://github-profile-trophy.vercel.app/?username=RedEdge967&theme=radical"><br>
 </p>
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RedEdge967&theme=tokyonight" />
