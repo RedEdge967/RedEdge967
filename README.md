@@ -22,13 +22,14 @@
 <h1 align="center">🌠What I have been Up to🌠....</h1>
 <br>
 <p align="center">
-<IMG SRC="https://github-readme-stats.vercel.app/api?username=RedEdge967&show_icons=true&theme=radical" />
+<kbd><IMG SRC="https://github-readme-stats.vercel.app/api?username=RedEdge967&show_icons=true&theme=radical"></kbd>
 </p>
 <p align="center">
-<IMG SRC="https://github-profile-trophy.vercel.app/?username=RedEdge967&theme=radical"><br>
+<kbd><IMG SRC="https://github-profile-trophy.vercel.app/?username=RedEdge967&theme=radical"><br></kbd>
 </p>
-
-[![Chandula's github activity graph](https://activity-graph.herokuapp.com/graph?username=RedEdge967&bg_color=000000&color=be4b83&line=ff007b&point=b89d9d&area=true&hide_border=true)](https://github.com/RedEdge967)
+<p align="center">
+<kbd><img src="https://activity-graph.herokuapp.com/graph?username=RedEdge967&bg_color=000000&color=be4b83&line=ff007b&point=b89d9d&area=true&hide_border=true" height="300" width="600"></kbd>
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RedEdge967&color=dc143c" align="center"/>
 </p>
