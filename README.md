@@ -28,8 +28,7 @@
 <IMG SRC="https://github-profile-trophy.vercel.app/?username=RedEdge967&theme=radical"><br>
 </p>
 
-[![Chandula's github activity graph](https://activity-graph.herokuapp.com/graph?username=RedEdge967&theme=react-dark)](https://github.com/RedEdge967)
-    </p>
+[![Chandula's github activity graph](https://activity-graph.herokuapp.com/graph?username=RedEdge967&bg_color=000000&color=be4b83&line=ff007b&point=b89d9d&area=true&hide_border=true)](https://github.com/RedEdge967)
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RedEdge967&color=dc143c" align="center"/>
 </p>
