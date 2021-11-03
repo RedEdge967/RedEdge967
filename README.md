@@ -28,7 +28,7 @@
 <IMG SRC="https://github-profile-trophy.vercel.app/?username=RedEdge967&theme=radical"><br>
 </p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=RedEdge967&theme=dracula)](https://github.com/RedEdge967)
+[![Chandula's github activity graph](https://activity-graph.herokuapp.com/graph?username=RedEdge967&theme=react-dark)](https://github.com/RedEdge967)
     </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RedEdge967&color=dc143c" align="center"/>
