@@ -26,10 +26,5 @@
 <kbd><IMG SRC="https://github-profile-trophy.vercel.app/?username=RedEdge967&theme=radical"><br></kbd>
 </p>
 <p align="center">
-<kbd><img src="https://activity-graph.herokuapp.com/graph?username=RedEdge967&bg_color=000000&color=be4b83&line=ff007b&point=b89d9d&area=true&hide_border=true" height="300" width="600"></kbd>
-</p>
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=RedEdge967&color=dc143c" align="center"/>
 </p>
-
-<IMG SRC="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> <IMG SRC="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> <IMG SRC="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> <IMG SRC="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />
