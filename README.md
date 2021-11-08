@@ -1,6 +1,7 @@
-<h2 align="center">🌈Hiya! I am Chandula!🌈</h2>
+<h1 align="center">Hiya! I am Chandula!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h1>
 
-<h3 align="center">What I use</h3>
+<h2 align="center">🔧 Languages, Tools and Technologies</h2>
 <p align="center">
 <IMG SRC="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <IMG SRC="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -16,10 +17,10 @@
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
-<h1 align="center">🌠What I have been Up to🌠....</h1>
+<h2 align="center">📈 What I have been Up to..</h2>
 <br>
 <p align="center">
-<kbd><IMG SRC="https://github-readme-stats.vercel.app/api?username=RedEdge967&show_icons=true&theme=radical"></kbd>
+<kbd><IMG SRC="https://github-readme-stats.vercel.app/api?username=RedEdge967&show_icons=true&theme=radical" height="150" width="300" ></kbd> <kbd><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedEdge967&layout=compact&theme=radical" height="150" width="300" ></kbd>
 </p>
 <p align="center">
 <kbd><IMG SRC="https://github-profile-trophy.vercel.app/?username=RedEdge967&theme=radical"><br></kbd>
