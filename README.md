@@ -1,7 +1,7 @@
 <h1 align="center">Hiya! I am Chandula!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
 <h2 align="center">:point_right: About me</h2>
-<p align="center">I am Chandula Janith. I am 12 years old. I am a Grade 7 student in Sri Lanka. I like to make Games, Websites and Softwares. here is My website :computer: : https://its-mine.netlify.app </p>
+<p align="center">I am Chandula Janith. I am 12 years old. I am a Grade 7 student in Sri Lanka. I like to make Games, Websites and Softwares.</p>
 <h2 align="center">🔧 Languages, Tools and Technologies</h2>
 <p align="center">
 <IMG SRC="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
