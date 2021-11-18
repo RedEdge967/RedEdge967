@@ -5,7 +5,7 @@
 
 - 💻 My web: https://rededge967.github.io
 - 📫 how to reach me: janithc783@gmail.com
-- 🤩 I'm interested in Operating systems
+- 🤩 I'm interested in UI themes and Operating systems
 - 🤣 Fun fact: **"sdrawkcab etirw nac I"**
 - 🔍 Find me on: [Codepen](https://codepen.io/RedEdge967) [LinkedIn](https://www.linkedin.com/in/chandula-janith-5529b7223/)
 
