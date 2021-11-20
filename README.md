@@ -1,7 +1,7 @@
 ## Hola Amigos! I am Chandula! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="30">
 
 ### :point_right: About me</h2>
-> I am Chandula Janith. I am 12 years old. I am a Grade 7 student in Sri Lanka. I like to make Games, Websites and Softwares. If you like my projects, don't forget to star.
+> I am Chandula Janith. I am 12 years old. I am a Grade 7 student in Sri Lanka. I like to make Games, Websites and Softwares. If you like my projects, don't forget to star. If you wanna get in touch with my projects, just follow me.
 
 - 💻 My web: https://rededge967.github.io
 - 📫 how to reach me: janithc783@gmail.com
