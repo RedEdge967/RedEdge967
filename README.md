@@ -15,6 +15,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=RedEdge967&show_icons=true&theme=radical">
 </details>
 <details>
+<summary>Most used Languages</summary>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedEdge967&layout=compact&theme=radical">
+</details>
+<details>
 <summary>Github Trophies</summary>
   <br>
   <img src="https://github-profile-trophy.vercel.app/?username=RedEdge967&theme=discord">
