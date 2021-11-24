@@ -37,6 +37,7 @@
   <a href="https://github.com/RedEdge967/macOS-web"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RedEdge967&repo=macOS-web&theme=radical">
   <a href="https://github.com/RedEdge967/win11-web"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RedEdge967&repo=win11-web&theme=radical">
   <a href="https://github.com/RedEdge967/win10-web"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RedEdge967&repo=win10-web&theme=radical">
+    <a href="https://github.com/RedEdge967/ubuntu-web"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RedEdge967&repo=ubuntu-web&theme=radical">
 </details>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RedEdge967&color=dc143c" align="center"/>
