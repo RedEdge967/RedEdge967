@@ -27,7 +27,7 @@
 <details>
 <summary>Github Trophies</summary>
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=RedEdge967&theme=discord">
+  <img src="https://github-profile-trophy.vercel.app/?username=RedEdge967&theme=radical">
 </details>
 <details>
 <summary>Github Streak</summary>
