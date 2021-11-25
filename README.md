@@ -7,10 +7,10 @@ const Chandula = {
     code: [Javascript, HTML5, CSS3, C, C++, C#, Java, Python],
     askMeAbout: ["web dev", "tech", "music"],
     technologies: [Github, Codepen, Vercel, Windows7],
-    myWebsite: [http://rededge967.github.io],
-    findMeOn: {
-        Codepen: [https://codepen.io/RedEdge967/],
-        LinkedIn: [https://www.linkedin.com/in/chandula-janith-5529b7223/]
+    myWebsite: ["http://rededge967.github.io"],
+     findMeOn: {
+        Codepen: ["https://codepen.io/RedEdge967/"],
+        LinkedIn: ["https://www.linkedin.com/in/chandula-janith-5529b7223/"]
         }        
     }
 };
