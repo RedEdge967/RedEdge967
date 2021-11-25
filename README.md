@@ -1,11 +1,11 @@
-## Hola Amigos! I am Chandula! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="30">
+## Hello There! I am Chandula! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="30">
 
 ```javascript
 const Chandula = {
     pronouns: "he" | "him",
     age: [12],
     code: [Javascript, HTML5, CSS3, C, C++, C#, Java, Python],
-    askMeAbout: ["web dev", "tech", "movies", "music", ""],
+    askMeAbout: ["web dev", "tech", "music"],
     technologies: [Github, Codepen, Vercel, Windows7],
     myWebsite: [http://rededge967.github.io],
     findMeOn: {
