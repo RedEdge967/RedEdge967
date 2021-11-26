@@ -7,6 +7,7 @@ const Chandula = {
     code: [Javascript, HTML5, CSS3, C, C++, C#, Java, Python],
     askMeAbout: ["web dev", "tech", "music"],
     technologies: [Github, Codepen, Vercel, Windows7],
+    contactMe: ["janithc967@gmail.com"],
     myWebsite: ["http://rededge967.github.io"],
      findMeOn: {
         Codepen: ["https://codepen.io/RedEdge967/"],
