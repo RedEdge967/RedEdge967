@@ -1,5 +1,4 @@
 ## Hello There! I am Chandula! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="30">
-<img src="img/banner.png" width="100%">
 
 ### 👉 About me
 > I am Chandula Janith. I am 12 years old. I am a Grade 7 student in Sri Lanka. I'm eager to learn and create softwares, games and websites.
