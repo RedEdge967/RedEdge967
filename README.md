@@ -2,7 +2,7 @@
 
 ### 👉 About me
 > I am Chandula Janith. I am 12 years old. I am a Grade 7 student in Sri Lanka. I'm eager to learn and create softwares, games and websites.
-- :computer: My web: https://rededge967.github.io
+- :computer: My websites: https://rededge967.github.io and https://rededge967.vercel.app
 - :mailbox: how to reach me: janithc967@gmail.com
 - :star_struck: I'm interested in **Web Apps and UI designs**
 - :rofl: Fun fact: **"sdrawkcab etirw nac I"**
