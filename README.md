@@ -2,6 +2,7 @@
 
 ### 👉 About me
 > I am Chandula Janith. I am 12 years old. I am a Grade 7 student in Sri Lanka. I'm eager to learn and create softwares, games and websites.
+- :seedling: I'm currently learning: **HTML5 | CSS3 | Javascript | Python | Java | C | C++ | SCSS**
 - :computer: My websites: https://rededge967.github.io
 - :mailbox: how to reach me: janithc967@gmail.com
 - :star_struck: I'm interested in **Web Apps and UI designs**
@@ -46,6 +47,24 @@
              title="Chandula Janith's Trophies"
         />
         </p>
+</details>
+<details>
+     <summary>My Goals</summary>
+     <br>
+     <ul>
+        <li>In life,</li>
+        <ul>
+            <li>Learn well</li>
+            <li>Be a Software engineer</li>
+        </ul>
+        <li>In Github,</li>
+        <ul>
+            <li>Get 20 followers in 6 Months</li>
+            <li>Get 100 followers in 1 Year</li>
+            <li>Get 200 followers in 2 Years</li>
+            <li>Get 1000 followers in Github</li>
+        </ul>
+    </ul>
 </details>
 
 <p align="center">
