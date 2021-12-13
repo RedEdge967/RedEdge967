@@ -3,10 +3,12 @@
 ### 👉 About me
 > I am Chandula Janith. I am 12 years old. I am a Grade 7 student in Sri Lanka. I'm eager to learn and create softwares, games and websites.
 - :seedling: I'm currently learning: **HTML5 | CSS3 | Javascript | Python | Java | C | C++ | SCSS**
-- :computer: My websites: https://rededge967.github.io
+- :thinking: I'm looking to **collabrate** with **other Developers**
+- :speech_balloon: **Ask me** about **anything** that you find **interesting**
+- :computer: My website: https://rededge967.github.io
 - :mailbox: how to reach me: janithc967@gmail.com
-- :star_struck: I'm interested in **Web Apps and UI designs**
-- :rofl: Fun fact: **"sdrawkcab etirw nac I"**
+- :two_hearts: I'm interested in **Web Apps and UI designs**
+- :zap: Fun fact: **"sdrawkcab etirw nac I"**
 - :mag_right: Find me on: [Codepen](https://codepen.io/RedEdge967/) [LinkedIn](https://www.linkedin.com/in/chandula-janith-5529b7223/)
 
 <details>
@@ -51,7 +53,7 @@
 <details>
      <summary>My Goals</summary>
      <br>
-     <ul>
+    <ul>
         <li>In life,</li>
         <ul>
             <li>Learn well</li>
@@ -66,7 +68,7 @@
         </ul>
     </ul>
 </details>
-
+    
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RedEdge967&color=dc143c" align="center"/>
 </p>
