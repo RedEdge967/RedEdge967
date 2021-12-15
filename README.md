@@ -5,11 +5,11 @@
 - :seedling: I'm currently learning: `HTML5` | `CSS3` | `Javascript` | `Python` | `Java` | `C` | `C++` | `SCSS`
 - :thinking: I'm looking to `collabrate` with `other Developers`
 - :speech_balloon: `Ask me` about `anything` that you find `interesting`
-- :computer: My website: https://rededge967.github.io
+- :computer: My website: [`https://rededge967.github.io`](https://rededge967.github.io)
 - :mailbox: how to reach me: janithc967@gmail.com
 - :two_hearts: I'm interested in `Web Apps` and `UI designs`
 - :zap: Fun fact: `"sdrawkcab etirw nac I"`
-- :mag_right: Find me on: [Codepen](https://codepen.io/RedEdge967/) [LinkedIn](https://www.linkedin.com/in/chandula-janith-5529b7223/)
+- :mag_right: Find me on: [`Codepen`](https://codepen.io/RedEdge967/) [`LinkedIn`](https://www.linkedin.com/in/chandula-janith-5529b7223/)
 
 <details>
     <summary>Github stats</summary>
