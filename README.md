@@ -1,6 +1,6 @@
 ## Hello There! I am Chandula! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="30">
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/91379432/146401254-80339ff9-fa48-4094-9ca0-fd471775e335.png">
+    <img src="https://user-images.githubusercontent.com/91379432/146401254-80339ff9-fa48-4094-9ca0-fd471775e335.png" height="30%" width="30%" >
 </p> 
 
 ### 👉 About me
@@ -72,7 +72,7 @@
     </ul>
 </details>
 <p align="right">
-<img src="https://user-images.githubusercontent.com/91379432/146401479-7176f441-a5ab-4b7c-9557-4db71fbe9745.png">
+<img src="https://user-images.githubusercontent.com/91379432/146401479-7176f441-a5ab-4b7c-9557-4db71fbe9745.png" height="30%" width="30%" >
     
 </p>
 
