@@ -14,6 +14,7 @@
 - :zap: Fun fact: `"sdrawkcab etirw nac I"`
 - :mag_right: Find me on: [`Codepen`](https://codepen.io/RedEdge967/) [`LinkedIn`](https://www.linkedin.com/in/chandula-janith-5529b7223/)
 
+<img align="right" src="https://user-images.githubusercontent.com/91379432/146401479-7176f441-a5ab-4b7c-9557-4db71fbe9745.png" height="30%" width="30%" >
 <details>
     <summary>Github stats</summary>
     <br>
@@ -71,10 +72,6 @@
         </ul>
     </ul>
 </details>
-<p align="right">
-<img src="https://user-images.githubusercontent.com/91379432/146401479-7176f441-a5ab-4b7c-9557-4db71fbe9745.png" height="30%" width="30%" >
-    
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RedEdge967&color=dc143c" align="center"/>
