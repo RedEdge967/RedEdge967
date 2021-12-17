@@ -1,4 +1,4 @@
-## Hello There! I am Chandula! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="30">
+# Hello There! I am Chandula! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="30">
 <p align="center">
     <img src="https://user-images.githubusercontent.com/91379432/146401254-80339ff9-fa48-4094-9ca0-fd471775e335.png" height="30%" width="30%" >
 </p> 
