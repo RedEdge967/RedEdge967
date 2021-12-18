@@ -55,6 +55,13 @@
         </p>
 </details>
 <details>
+     <summary>Github Contribution graph</summary>
+     <br>
+    <p align="center">
+        <img src="https://activity-graph.herokuapp.com/graph?username=RedEdge967&theme=gruvbox" title="Chandula Janith's Contribution graph">
+        </p>
+</details>
+<details>
      <summary>My Goals</summary>
      <br>
     <ul>
