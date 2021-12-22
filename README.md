@@ -6,7 +6,7 @@
 ### 👉 About me
 > I am Chandula Janith. I am 12 years old. I am a Grade 7 student in Sri Lanka. I'm eager to learn and create softwares, games and websites.
 
-- 🌱 I'm currently learning: `HTML5` | `CSS3` | `Javascript` | `Python` | `Java` | `C` | `C++` | `SCSS`
+- 🌱 I'm currently learning: `HTML5` , `CSS3` , `Javascript` , `Python` , `Java` , `C` , `C++` and `SCSS`
 - 🤔 I'm looking to `collabrate` with `other Developers`
 - 💬 Ask me about `Web Dev` , `Music` , `Movies` and `anything` you find `interesting`
 - 💻 My website: [`https://rededge967.github.io`](https://rededge967.github.io)
