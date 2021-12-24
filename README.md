@@ -7,12 +7,12 @@
 > I am Chandula Janith. I am 12 years old. I am a Grade 7 student in Sri Lanka. I'm eager to learn and create softwares, games and websites.
 
 - 🌱 I'm currently learning: `HTML5` , `CSS3` , `Javascript` , `Python` , `Java` , `C` , `C++` , `SCSS`
-- 🤔 I'm looking to `collabrate` with `other Developers`
+- 🤔 I'm looking to `collabrate` with `other Developers` in `Github`
 - 💬 Ask me about `Web Dev` , `Music` , `Movies` and `anything` you find `interesting`
 - 💻 My website: [`https://rededge967.github.io`](https://rededge967.github.io)
 - 📫 how to reach me: [`janithc967@gmail.com`](mailto:janithc967@gmail.com)
 - 💕 I'm interested in `Web Apps` and `UI designs`
-- ⚡ Fun fact: `"sdrawkcab etirw nac I"`
+- ⚡ Fun fact: `"I am Just a 12 years old kid"`
 - 🔎 Find me on: [`Codepen`](https://codepen.io/RedEdge967/) [`LinkedIn`](https://www.linkedin.com/in/chandula-janith-5529b7223/)
 
 <img align="right" src="https://user-images.githubusercontent.com/91379432/146401479-7176f441-a5ab-4b7c-9557-4db71fbe9745.png" height="30%" width="30%" title="Does this readme looks good? Thank you!" >
