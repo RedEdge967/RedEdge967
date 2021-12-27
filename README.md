@@ -124,7 +124,7 @@
         <p><a target="_blank" href="https://github.com/RedEdge967/redOS">Repo</a> // <a target="_blank" href="https://rededge967.github.io/redOS">Site</a></p>
         <br />
         <a target="_blank" href="https://rededge967.github.io/redOS">
-          <img src="https://user-images.githubusercontent.com/91379432/147479725-a2c51219-5645-4660-bd46-022efc4ecdf0.PNG" width="100%" alt="redOS"/>
+          <img src="https://user-images.githubusercontent.com/91379432/147479725-a2c51219-5645-4660-bd46-022efc4ecdf0.PNG" width="100%" height="265px" alt="redOS"/>
         </a>
         <p><strong>A web based GUI operating system written in HTML5, CSS3 and Javascript</p>
     </td>
