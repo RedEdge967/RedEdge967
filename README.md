@@ -81,6 +81,57 @@
     </ul>
 </details>
 
+<h2>👉 Best Projects</h2>
+<table bordercolor="#66b2b2">
+  <tr>
+    <td width="33%" valign="top">
+      <h3>MacOS Big Sur web</h3>
+        <br />
+        <p><a target="_blank" href="https://github.com/RedEdge967/MacOS-CSS">Repo</a> // <a target="_blank" href="http://macos-css.vercel.app">Site</a></p>
+        <br />
+        <a target="_blank" href="http://macos-css.vercel.app">
+            <img src="https://user-images.githubusercontent.com/91379432/147478881-59f3987e-4d3f-43d1-ad6f-366b8f46e833.PNG" width="100%" alt="Macos web"/>
+        </a>
+        <p><strong>A Web simulator of MacOS Big Sur written in HTML5, CSS3 and JavaScript</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Windows 11 web</h3>
+        <br />
+        <p><a target="_blank" href="https://github.com/RedEdge967/win11-web">Repo</a> // <a target="_blank" href="https://win11web.vercel.app">Site</a></p>
+        <br />
+        <a target="_blank" href="https://win11web.vercel.app">
+            <img src="https://user-images.githubusercontent.com/91379432/147479086-e90de489-69fe-4575-9586-180bac1e4c16.PNG" width="100%" alt="win11 web"/>
+        </a>
+        <p><strong>A web simualtor of windows 11 written in HTML5, CSS3 and JavaScript</p>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Micro Code editor"</h3>
+        <br />
+        <p><a target="_blank" href="https://github.com/RedEdge967/Micro-Code-Editor-In-WebBrowser">Repo</a> // <a target="_blank" href="https://codepen.io/RedEdge967/full/bGrgKbX">Site</a></p>
+        <br />
+        <a target="_blank" href="https://codepen.io/RedEdge967/full/bGrgKbX">
+            <img src="https://user-images.githubusercontent.com/91379432/147479511-fc9d4488-e197-4c97-8fc2-2da7497ab52e.PNG" width="100%"  height="265px" alt="micro code editor"/>
+        </a>
+        <p><strong>A online syntax editor for HTML5, Javascript and PHP written in HTML5, CSS3 and Javascript</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>RedOS</h3>
+        <br />
+        <p><a target="_blank" href="https://github.com/RedEdge967/redOS">Repo</a> // <a target="_blank" href="https://rededge967.github.io/redOS">Site</a></p>
+        <br />
+        <a target="_blank" href="https://rededge967.github.io/redOS">
+          <img src="https://user-images.githubusercontent.com/91379432/147479725-a2c51219-5645-4660-bd46-022efc4ecdf0.PNG" width="100%" alt="redOS"/>
+        </a>
+        <p><strong>A web based GUI operating system written in HTML5, CSS3 and Javascript</p>
+    </td>
+  </tr>
+</table>
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RedEdge967&color=dc143c" align="center"/>
 </p>
