@@ -9,7 +9,7 @@
 - 🌱 I'm currently learning: `HTML5` , `CSS3` , `Javascript` , `Python` , `Java` , `C` , `C++` , `SCSS`
 - 🤔 I'm looking to `collabrate` with `other Developers` in `Github`
 - 💬 Ask me about `Web Dev` , `Music` , `Movies` and `anything` you find `interesting`
-- 💻 My website: [`https://rededge967.github.io`](https://rededge967.github.io)
+- 💻 My website: [`https://rededge967.github.io`](https://redfolio.vercel.app)
 - 📫 how to reach me: [`janithc967@gmail.com`](mailto:janithc967@gmail.com)
 - 💕 I'm interested in `Web Apps` and `UI designs`
 - ⚡ Fun fact: `"I am Just a 12 years old kid"`
