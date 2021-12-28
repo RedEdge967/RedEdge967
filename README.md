@@ -109,12 +109,12 @@
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>Micro Code editor"</h3>
+      <h3>Micro Code editor</h3>
         <br />
         <p><a target="_blank" href="https://github.com/RedEdge967/Micro-Code-Editor-In-WebBrowser">Repo</a> // <a target="_blank" href="https://codepen.io/RedEdge967/full/bGrgKbX">Site</a></p>
         <br />
         <a target="_blank" href="https://codepen.io/RedEdge967/full/bGrgKbX">
-            <img src="https://user-images.githubusercontent.com/91379432/147479511-fc9d4488-e197-4c97-8fc2-2da7497ab52e.PNG" width="100%"  height="265px" alt="micro code editor"/>
+            <img src="https://user-images.githubusercontent.com/91379432/147479511-fc9d4488-e197-4c97-8fc2-2da7497ab52e.PNG" width="100%" alt="micro code editor"/>
         </a>
         <p><strong>A online syntax editor for HTML5, Javascript and PHP written in HTML5, CSS3 and Javascript</p>
     </td>
@@ -124,7 +124,7 @@
         <p><a target="_blank" href="https://github.com/RedEdge967/redOS">Repo</a> // <a target="_blank" href="https://rededge967.github.io/redOS">Site</a></p>
         <br />
         <a target="_blank" href="https://rededge967.github.io/redOS">
-          <img src="https://user-images.githubusercontent.com/91379432/147479725-a2c51219-5645-4660-bd46-022efc4ecdf0.PNG" width="100%" height="265px" alt="redOS"/>
+          <img src="https://user-images.githubusercontent.com/91379432/147479725-a2c51219-5645-4660-bd46-022efc4ecdf0.PNG" width="100%" alt="redOS"/>
         </a>
         <p><strong>A web based GUI operating system written in HTML5, CSS3 and Javascript</p>
     </td>
