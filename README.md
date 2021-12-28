@@ -4,7 +4,7 @@
 </p> 
 
 ### 👉 About me
-> I am Chandula Janith. I am 12 years old. I am a Grade 7 student in Sri Lanka. I'm eager to learn and create softwares, games and websites. Feel free to send [emails](mailto:janithc967@gmail.com) to me.
+> I am Chandula Janith. I am 12 years old. I am a Grade 7 student in Sri Lanka. I'm eager to learn and create softwares, games and websites. If you like my Mini-Projects show 💕 by 🌟 and follow me to get in touch with my future projects
 
 - 🌱 I'm currently learning: `HTML5` , `CSS3` , `Javascript` , `Python` , `Java` , `C` , `C++` , `SCSS`
 - 🤔 I'm looking to `collabrate` with `other Developers` in `Github`
