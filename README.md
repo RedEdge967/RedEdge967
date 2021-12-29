@@ -15,7 +15,15 @@
 - ⚡ Fun fact: `"I am Just a 12 years old kid"`
 - 🔎 Find me on: [`Codepen`](https://codepen.io/RedEdge967/) [`LinkedIn`](https://www.linkedin.com/in/chandula-janith-5529b7223/)
 
-<img align="right" src="https://user-images.githubusercontent.com/91379432/146401479-7176f441-a5ab-4b7c-9557-4db71fbe9745.png" height="30%" width="30%" title="Give 💕 by 🌟 this repo" >
+<details>
+    <summary>Languages and Technologies</summary>
+    <br>
+    <p align="center">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" title="html5"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" title="css3"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" title="javascript"> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" title="C"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" title="python"> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" title="typescript"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" title="java"><br>
+     <img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black" title="codepen"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" title="Visual studio code"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" title="Github"> <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" title="vercel"><br>
+     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" title="Windows">
+        </p>
+</details>
 <details>
     <summary>Github stats</summary>
     <br>
