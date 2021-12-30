@@ -44,7 +44,7 @@
      <summary>Github Trophies</summary>
      <br>
     <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=RedEdge967&column=7&theme=gruvbox&margin-w=5&no-frame=true" title="Chandula Janith's Trophies"/>
+     <img src="https://github-profile-trophy.vercel.app/?username=RedEdge967&column=7&theme=gruvbox&margin-w=5&no-frame=true" title="Chandula Janith's Trophies"/>
         </p>
 </details>
 <details>
