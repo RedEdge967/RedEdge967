@@ -1,8 +1,5 @@
-<h1 align="center">Hello There! I am Chandula! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="30"></h1>
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/91379432/147559363-7c1be522-cdb1-4b21-876c-aeb42df31e7f.png" height="30%" width="30%" title="hello! I am Chandula">
-</p> 
-
+<img src="https://user-images.githubusercontent.com/91379432/147733074-8e60862e-5605-43e6-b722-c902b5eee523.gif" height="" width="100%">
+ 
 ### 👉 About me
 > I am Chandula Janith. I am 12 years old. I am a Grade 7 student in Sri Lanka. I'm eager to learn and create softwares, games and websites. If you like my Mini-Projects show 💕 by 🌟 and follow me to get in touch with my future projects
 
@@ -101,9 +98,9 @@
     <td width="33%" valign="top">
       <h3>Micro Code editor</h3>
         <br />
-        <p><a target="_blank" href="https://github.com/RedEdge967/Micro-Code-Editor-In-WebBrowser">Repo</a> // <a target="_blank" href="https://codepen.io/RedEdge967/full/bGrgKbX">Site</a></p>
+        <p><a target="_blank" href="https://github.com/RedEdge967/micro-code-editor">Repo</a> // <a target="_blank" href="https://rededge967.github.io/micro-code-editor">Site</a></p>
         <br />
-        <a target="_blank" href="https://codepen.io/RedEdge967/full/bGrgKbX">
+        <a target="_blank" href="https://rededge967.github.io/micro-code-editor">
             <img src="https://user-images.githubusercontent.com/91379432/147479511-fc9d4488-e197-4c97-8fc2-2da7497ab52e.PNG" width="100%" alt="micro code editor"/>
         </a>
         <p><strong>A online syntax editor for HTML5, Javascript and PHP written in HTML5, CSS3 and Javascript</p>
