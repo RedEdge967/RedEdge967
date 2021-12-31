@@ -8,7 +8,7 @@
 - 💬 Ask me about `Web Dev` , `Music` , `Movies` and `anything` you find `interesting`
 - 💻 My website: [`https://rededge967.github.io`](https://RedEdge967.github.io)
 - 📫 how to reach me: [`janithc967@gmail.com`](mailto:janithc967@gmail.com)
-- 💕 I'm interested in `Web Apps` and `UI designs`
+- 💕 I'm interested in `Web Dev` and `UI/UX designs`
 - ⚡ Fun fact: `"I am Just a 12 years old kid"`
 - 🔎 Find me on: [`Codepen`](https://codepen.io/RedEdge967/) [`LinkedIn`](https://www.linkedin.com/in/chandula-janith-5529b7223/)
 
