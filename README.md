@@ -47,13 +47,6 @@
      <img src="https://github-profile-trophy.vercel.app/?username=RedEdge967&column=7&theme=gruvbox&margin-w=5&no-frame=true" title="Chandula Janith's Trophies"/>
         </p>
 </details>
-<details>
-     <summary>Github Contribution graph</summary>
-     <br>
-    <p align="center">
-        <img src="https://activity-graph.herokuapp.com/graph?username=RedEdge967&theme=gruvbox" title="Chandula Janith's Contribution graph">
-        </p>
-</details>
 
 <h2>👉 Best Projects</h2>
 <table bordercolor="#66b2b2">
