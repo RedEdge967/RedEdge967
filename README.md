@@ -10,7 +10,7 @@
 - 📫 how to reach me: [`janithc967@gmail.com`](mailto:janithc967@gmail.com)
 - 💕 I'm interested in `Web Dev` and `UI/UX designs`
 - ⚡ Fun fact: `"I am Just a 12 years old kid"`
-- 🔎 Find me on: [`Codepen`](https://codepen.io/RedEdge967/) [`LinkedIn`](https://www.linkedin.com/in/chandula-janith-5529b7223/) [`Dribbble`](https://dribbble.com/RedEdge967) [`Deviantart`](https://devianart.com/RedEdge967)
+- 🔎 Find me on: [`Codepen`](https://codepen.io/RedEdge967/) [`LinkedIn`](https://www.linkedin.com/in/chandula-janith-5529b7223/) [`Dribbble`](https://dribbble.com/RedEdge967) [`Deviantart`](https://deviantart.com/RedEdge967)
 
 <details>
     <summary>Github stats</summary>
