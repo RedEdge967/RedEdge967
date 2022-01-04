@@ -5,7 +5,7 @@
 
 - 🌱 I'm currently learning: `HTML5` , `CSS3` , `Javascript` , `Python` , `Java` , `C` , `C++` , `SCSS`
 - 🤔 I'm looking to `collabrate` with `other Developers` in `Github`
-- 💬 Ask me about `Web Dev` , `Music` , `Movies` and `anything` you find `interesting`
+- 💬 Ask me about `Web Dev` , `Movies` , `Music` and `anything`
 - 💻 My website: [`https://rededge967.github.io`](https://RedEdge967.github.io)
 - 📫 how to reach me: [`janithc967@gmail.com`](mailto:janithc967@gmail.com)
 - 💕 I'm interested in `Web Dev` and `UI/UX designs`
