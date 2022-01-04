@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/91379432/147733074-8e60862e-5605-43e6-b722-c902b5eee523.gif" height="" width="100%">
+<img src="https://user-images.githubusercontent.com/91379432/148032521-dcb954af-dbfd-4d8b-9a6d-312fd0b638d3.png" height="" width="100%">
  
 ### 👉 About me
 > I am Chandula Janith. I am 12 years old. I am a Grade 7 student in Sri Lanka. I'm eager to learn and create softwares, games and websites. If you like my Mini-Projects show your 💕 by 🌟 my repos
