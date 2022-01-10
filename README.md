@@ -1,6 +1,4 @@
-<img src="https://user-images.githubusercontent.com/91379432/148032521-dcb954af-dbfd-4d8b-9a6d-312fd0b638d3.png" height="" width="100%" alt="hello world! don't forget to give a star to this repo">
- 
-### 👉 About me
+## 👉 About me
 > I am Chandula Janith. I am 12 years old. I am a Grade 7 student in Sri Lanka. I'm eager to learn and create softwares, games and websites. If you like my Mini-Projects show your love 💕 by starring 🌟 my repos
 
 - 🌱 I'm currently learning: `HTML5` , `CSS3` , `Javascript` , `Python` , `Java` , `C` , `C++` , `SCSS`
