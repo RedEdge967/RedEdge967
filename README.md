@@ -28,18 +28,20 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![JQuery](https://img.shields.io/badge/-JQuery-000?&logo=JQuery)
+![Tailwind](https://img.shields.io/badge/-Tailwindcss-000?&logo=TailwindCSS)
 
 ### Projects
 
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/RedEdge967/RedEdge967.github.io)
-[![](https://img.shields.io/badge/-🦠%20Macos%20Web-000)](https://github.com/RedEdge967/Macos-CSS)
-[![](https://img.shields.io/badge/-📝%20Win11%20Web-000)](https://github.com/win11-web)
-[![](https://img.shields.io/badge/-🔬%20Micro%20code%20editor-000)](https://github.com/RedEdge967/micro-code-editor)
-[![](https://img.shields.io/badge/-🛰%20Keyboard%20Hero-000)](https://github.com/RedEdge967/Keyboard-Hero)
+[![](https://img.shields.io/badge/-📱%20My%20Website-000)](https://github.com/RedEdge967/RedEdge967.github.io)
+[![](https://img.shields.io/badge/-💻%20Macos%20Web-000)](https://github.com/RedEdge967/Macos-CSS)
+[![](https://img.shields.io/badge/-🖥️%20Win11%20Web-000)](https://github.com/win11-web)
+[![](https://img.shields.io/badge/-📝%20Micro%20code%20editor-000)](https://github.com/RedEdge967/micro-code-editor)
+[![](https://img.shields.io/badge/-⌨️%20Keyboard%20Hero-000)](https://github.com/RedEdge967/Keyboard-Hero)
 
+<p align="center">
 <a href="https://www.rededge967.github.io"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=RedEdge967&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedEdge967&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 <br>
-<p align="center">
+
 <img src="https://github-profile-trophy.vercel.app/?username=RedEdge967&theme=onedark&row=2&column=3">
 <br>
 <br>
