@@ -1,5 +1,11 @@
-## 👉 About me
-> I am Chandula Janith. I am 12 years old. I am a Grade 7 student in Sri Lanka. I'm eager to learn and create softwares, games and websites. If you like my Mini-Projects show your love 💕 by starring 🌟 my repos
+<p align="right">
+ <img src="https://user-images.githubusercontent.com/91379432/149498077-986fe309-7733-478d-9ae8-e42a8f856b53.gif"
+<p align="left">
+<h2>👉 About me</h2>
+<blockquote>I am Chandula Janith. I am 12 years old. I am a Grade 7 student in Sri Lanka. I'm eager to learn and create softwares, games and websites. If you like my Mini-Projects show your love 💕 by starring 🌟 my repos</blockquote>
+</p>
+<br>
+<br>
 
 ### Languages
 
