@@ -19,6 +19,9 @@
 ![CSS3](https://img.shields.io/badge/-css3-000?&logo=css3)
 ![Svelte](https://img.shields.io/badge/-Svelte-000?&logo=Svelte)
 ![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
+![C#](https://img.shields.io/badge/-Csharp-000?&logo=Csharp)
+![Less](https://img.shields.io/badge/-Less-000?&logo=Less)
 
 ### Technologies
 
@@ -30,6 +33,7 @@
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![JQuery](https://img.shields.io/badge/-JQuery-000?&logo=JQuery)
 ![Tailwind](https://img.shields.io/badge/-Tailwindcss-000?&logo=TailwindCSS)
+![Angular.js](https://img.shields.io/badge/-Angular.js-000?&logo=angularjs)
 
 ### Projects
 
