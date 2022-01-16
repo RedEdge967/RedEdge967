@@ -18,6 +18,7 @@
 ![HTML5](https://img.shields.io/badge/-html5-000?&logo=html5)
 ![CSS3](https://img.shields.io/badge/-css3-000?&logo=css3)
 ![Svelte](https://img.shields.io/badge/-Svelte-000?&logo=Svelte)
+![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
 
 ### Technologies
 
