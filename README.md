@@ -52,3 +52,11 @@
 <br>
 <img src="https://komarev.com/ghpvc/?username=RedEdge967&color=red">
 </p>
+<br>
+<div align="center">
+   <strong>
+   <font size="+2" style="font">
+   RedEdge967 © 2022
+   </font>
+   </strong>
+</div>
