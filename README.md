@@ -1,5 +1,5 @@
 <div align="center">
- <h1>Hello Everyone!👋</h1>
+ <h1>Hello Everyone! I am Chandula</h1>
 </div>
 <p align="right">
  <img src="https://user-images.githubusercontent.com/91379432/149498077-986fe309-7733-478d-9ae8-e42a8f856b53.gif"
