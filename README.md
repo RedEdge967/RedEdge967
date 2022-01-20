@@ -55,6 +55,22 @@
 <br>
 <img src="https://komarev.com/ghpvc/?username=RedEdge967&color=red">
 </p>
+<p align="center">
+  <a href= "https://github.com/RedEdge967">
+    <img src="https://img.icons8.com/ios-glyphs/30/fa314a/github.png"/>
+  </a>
+  <a href= "https://www.linkedin.com/in/chandula-janith-is-here/">
+    <img src="https://img.icons8.com/ios-glyphs/30/fa314a/linkedin.png"/>
+  </a>
+  <a href= "https://RedEdge967.github.io">
+    <img src="https://img.icons8.com/ios-glyphs/30/fa314a/internet--v1.png"/>
+  </a>
+  <a href="mailto:janithc967@gmail.com">
+    <img src="https://img.icons8.com/ios-glyphs/30/fa314a/new-post.png"/>
+  </a>
+ 
+-----
+
 <div align="center">
    <strong>
    <font size="+2" style="font">
