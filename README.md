@@ -4,7 +4,7 @@
 #### I am Chandula Janith. I am 12 years old. I am a Grade 7 student in Sri Lanka. I'm eager to learn and create softwares, games and websites. If you like my Mini-Projects show your love 💕 by starring 🌟 my repos
 
 ### ✍️ Blog and Writing
-Apart from coding, I also maintaining a blog - you can find my articles on my blog [gatsby-gitblog.vercel.app](https://gatsby-gitblog.vercel.app)
+Apart from coding, I also maintaining a blog - you can find my articles on my blog [gatsby-gitblog](https://gatsby-gitblog.vercel.app)
 
 ### 💻 Languages
 
