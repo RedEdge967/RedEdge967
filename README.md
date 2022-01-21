@@ -1,11 +1,13 @@
 ![Chandula Janith](https://user-images.githubusercontent.com/91379432/150557985-1cc05674-2a87-4061-a0bb-3391dab5896d.png)
 
 # Hello, Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-#### I am Chandula Janith. I am 12 years old. I am a Grade 7 student in Sri Lanka. I'm eager to learn and create softwares, games and websites. If you like my Mini-Projects show your love 💕 by starring 🌟 my repos
+I am Chandula Janith. I am 12 years old. I am a Grade 7 student in Sri Lanka. I'm eager to learn and create softwares, games and websites. If you like my Mini-Projects show your love 💕 by starring 🌟 my repos
 
+----------
 ### ✍️ Blog and Writing
 Apart from coding, I also maintaining a blog - you can find my articles on my blog [gatsby-gitblog](https://gatsby-gitblog.vercel.app)
 
+----------
 ### 💻 Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -22,6 +24,7 @@ Apart from coding, I also maintaining a blog - you can find my articles on my bl
 ![C#](https://img.shields.io/badge/-Csharp-000?&logo=Csharp)
 ![Less](https://img.shields.io/badge/-Less-000?&logo=Less)
 
+----------
 ### 🔧 Technologies
 
 ![Github](https://img.shields.io/badge/-Github-000?&logo=Github&logoColor=F90)
@@ -34,6 +37,7 @@ Apart from coding, I also maintaining a blog - you can find my articles on my bl
 ![Tailwind](https://img.shields.io/badge/-Tailwindcss-000?&logo=TailwindCSS)
 ![Angular.js](https://img.shields.io/badge/-Angular.js-000?&logo=angularjs)
 
+----------
 ### 📂 Projects
 
 [![](https://img.shields.io/badge/-📱%20My%20Website-000)](https://github.com/RedEdge967/RedEdge967.github.io)
