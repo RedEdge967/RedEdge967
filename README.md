@@ -1,15 +1,8 @@
-<div align="center">
- <h1>Hello Everyone! I am Chandula</h1>
-</div>
-<p align="right">
- <img src="https://user-images.githubusercontent.com/91379432/149498077-986fe309-7733-478d-9ae8-e42a8f856b53.gif"
-<p align="left">
-<h2>👉 About me</h2>
-<blockquote>I am Chandula Janith. I am 12 years old. I am a Grade 7 student in Sri Lanka. I'm eager to learn and create softwares, games and websites. If you like my Mini-Projects show your love 💕 by starring 🌟 my repos</blockquote>
-</p>
-<br>
-<br>
-<br>
+![Chandula Janith](https://user-images.githubusercontent.com/91379432/150557985-1cc05674-2a87-4061-a0bb-3391dab5896d.png)
+
+## 👉 About me
+> I am Chandula Janith. I am 12 years old. I am a Grade 7 student in Sri Lanka. I'm eager to learn and create softwares, games and websites. If you like my Mini-Projects show your love 💕 by starring 🌟 my repos
+
 
 ### Languages
 
