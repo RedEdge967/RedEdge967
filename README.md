@@ -1,10 +1,12 @@
 ![Chandula Janith](https://user-images.githubusercontent.com/91379432/150557985-1cc05674-2a87-4061-a0bb-3391dab5896d.png)
 
-## 👉 About me
-> I am Chandula Janith. I am 12 years old. I am a Grade 7 student in Sri Lanka. I'm eager to learn and create softwares, games and websites. If you like my Mini-Projects show your love 💕 by starring 🌟 my repos
+# Hello, Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+#### I am Chandula Janith. I am 12 years old. I am a Grade 7 student in Sri Lanka. I'm eager to learn and create softwares, games and websites. If you like my Mini-Projects show your love 💕 by starring 🌟 my repos
 
+### ✍️ Blog and Writing
+Apart from coding, I also maintaining a blog - you can find my articles on my blog [gatsby-gitblog.vercel.app](https://gatsby-gitblog.vercel.app)
 
-### Languages
+### 💻 Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -20,7 +22,7 @@
 ![C#](https://img.shields.io/badge/-Csharp-000?&logo=Csharp)
 ![Less](https://img.shields.io/badge/-Less-000?&logo=Less)
 
-### Technologies
+### 🔧 Technologies
 
 ![Github](https://img.shields.io/badge/-Github-000?&logo=Github&logoColor=F90)
 ![Codepen](https://img.shields.io/badge/-Codepen-000?&logo=Codepen)
@@ -32,13 +34,14 @@
 ![Tailwind](https://img.shields.io/badge/-Tailwindcss-000?&logo=TailwindCSS)
 ![Angular.js](https://img.shields.io/badge/-Angular.js-000?&logo=angularjs)
 
-### Projects
+### 📂 Projects
 
 [![](https://img.shields.io/badge/-📱%20My%20Website-000)](https://github.com/RedEdge967/RedEdge967.github.io)
 [![](https://img.shields.io/badge/-💻%20Macos%20Web-000)](https://github.com/RedEdge967/Macos-CSS)
 [![](https://img.shields.io/badge/-🖥️%20Win11%20Web-000)](https://github.com/win11-web)
 [![](https://img.shields.io/badge/-📝%20Micro%20code%20editor-000)](https://github.com/RedEdge967/micro-code-editor)
 [![](https://img.shields.io/badge/-⌨️%20Keyboard%20Hero-000)](https://github.com/RedEdge967/Keyboard-Hero)
+[![](https://img.shields.io/badge/-🕷️%20Spider%20Man-000)](https://github.com/RedEdge967/Spider-Man)
 
 |![](https://github-readme-stats.vercel.app/api?username=RedEdge967&&show_icons=true&theme=radical)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=RedEdge967&layout=compact&theme=radical&langs_count=10)|
 |-|-|
