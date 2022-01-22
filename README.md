@@ -42,7 +42,7 @@ Apart from coding, I also maintaining a blog - you can find my articles on my bl
 
 [![](https://img.shields.io/badge/-📱%20My%20Website-000)](https://github.com/RedEdge967/RedEdge967.github.io)
 [![](https://img.shields.io/badge/-💻%20Macos%20Web-000)](https://github.com/RedEdge967/Macos-CSS)
-[![](https://img.shields.io/badge/-🖥️%20Win11%20Web-000)](https://github.com/win11-web)
+[![](https://img.shields.io/badge/-🖥️%20Win11%20Web-000)](https://github.com/RedEdge967/win11-web)
 [![](https://img.shields.io/badge/-📝%20Micro%20code%20editor-000)](https://github.com/RedEdge967/micro-code-editor)
 [![](https://img.shields.io/badge/-⌨️%20Keyboard%20Hero-000)](https://github.com/RedEdge967/Keyboard-Hero)
 [![](https://img.shields.io/badge/-🕷️%20Spider%20Man-000)](https://github.com/RedEdge967/Spider-Man)
