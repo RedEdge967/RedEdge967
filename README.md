@@ -5,7 +5,7 @@ I am Chandula Janith. I am 12 years old. I am a Grade 7 student in Sri Lanka. I'
 
 ----------
 ### ✍️ Blog and Writing
-Apart from coding, I also maintaining a blog - you can find my articles on my blog [GitBlog](https://gitblog.vercel.app)
+Apart from coding, I also maintaining a blog - you can find my articles on my blog [GitBlog](https://gitblog.vercel.app). You can find it in my GitHub account. Do Star my blog repo also.
 
 ----------
 ### 💻 Languages
