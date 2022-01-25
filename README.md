@@ -47,13 +47,13 @@ Apart from coding, I also maintaining a blog - you can find my articles on my bl
 [![](https://img.shields.io/badge/-⌨️%20Keyboard%20Hero-000)](https://github.com/RedEdge967/Keyboard-Hero)
 [![](https://img.shields.io/badge/-🕷️%20Spider%20Man-000)](https://github.com/RedEdge967/Spider-Man)
 
+----------
 |![](https://github-readme-stats.vercel.app/api?username=RedEdge967&&show_icons=true&theme=radical)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=RedEdge967&layout=compact&theme=radical&langs_count=10)|
 |-|-|
 
 |![trophy](https://github-profile-trophy.vercel.app/?username=RedEdge967&theme=radical&row=1&column=6)|
 |-|
-
-![](https://activity-graph.herokuapp.com/graph?username=RedEdge967&theme=redical)
+|![](https://activity-graph.herokuapp.com/graph?username=RedEdge967&theme=redical)|
 
 <p align="center">
 <br>
