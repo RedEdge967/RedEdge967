@@ -22,7 +22,6 @@ Apart from coding, I also maintaining a blog - you can find my articles on my bl
 ![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
 ![C#](https://img.shields.io/badge/-Csharp-000?&logo=Csharp)
-![Less](https://img.shields.io/badge/-Less-000?&logo=Less)
 
 ----------
 ### 🔧 Technologies
