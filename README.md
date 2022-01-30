@@ -72,7 +72,10 @@ Apart from coding, I also maintaining a blog - you can find my articles on my bl
   <a href="mailto:janithc967@gmail.com">
     <img src="https://img.icons8.com/ios-glyphs/30/fa314a/new-post.png"/>
   </a>
- 
+  <a href="https://discordapp.com/users/931930701463437334">
+    <img src="https://img.icons8.com/ios-glyphs/30/fa314a/discord.png"/>
+  </a>
+  
 ----------
 
 <div align="center">
