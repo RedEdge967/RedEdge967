@@ -76,7 +76,7 @@ Apart from coding, I also maintaining a blog - you can find my articles on my bl
     <img src="https://img.icons8.com/ios-glyphs/30/fa314a/discord.png"/>
   </a>
   
-----------
+-----
 
 <div align="center">
    <strong>
