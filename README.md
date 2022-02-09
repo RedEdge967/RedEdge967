@@ -8,7 +8,7 @@
 𝙰𝚙𝚊𝚛𝚝 𝚏𝚛𝚘𝚖 𝚌𝚘𝚍𝚒𝚗𝚐, 𝙸 𝚊𝚕𝚜𝚘 𝚖𝚊𝚒𝚗𝚝𝚊𝚒𝚗𝚒𝚗𝚐 𝚊 𝚋𝚕𝚘𝚐 - 𝚢𝚘𝚞 𝚌𝚊𝚗 𝚏𝚒𝚗𝚍 𝚖𝚢 𝚊𝚛𝚝𝚒𝚌𝚕𝚎𝚜 𝚘𝚗 𝚖𝚢 [𝚋𝚕𝚘𝚐](https://redblog-rededge.vercel.app).
 
 ----------
-### 💻 Languages
+### 💻 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -24,7 +24,7 @@
 ![C#](https://img.shields.io/badge/-Csharp-000?&logo=Csharp)
 
 ----------
-### 🔧 Technologies
+### 🔧 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜
 
 ![Github](https://img.shields.io/badge/-Github-000?&logo=Github&logoColor=F90)
 ![Codepen](https://img.shields.io/badge/-Codepen-000?&logo=Codepen)
@@ -37,7 +37,7 @@
 ![Angular.js](https://img.shields.io/badge/-Angular.js-000?&logo=angularjs)
 
 ----------
-### 📂 Projects
+### 📂 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜
 
 [![](https://img.shields.io/badge/-📱%20My%20Website-000)](https://github.com/RedEdge967/RedEdge967.github.io)
 [![](https://img.shields.io/badge/-💻%20Macos%20Web-000)](https://github.com/RedEdge967/Macos-CSS)
@@ -81,7 +81,7 @@
 <div align="center">
    <strong>
    <font size="+2" style="font">
-   RedEdge967 © 2022
+   𝚁𝚎𝚍𝙴𝚍𝚐𝚎𝟿𝟼𝟽 © 𝟸0𝟸𝟸
    </font>
    </strong>
 </div>
