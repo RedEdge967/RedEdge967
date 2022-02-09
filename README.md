@@ -1,11 +1,11 @@
 <img SRC="https://user-images.githubusercontent.com/91379432/150557985-1cc05674-2a87-4061-a0bb-3391dab5896d.png" width="100%">
 
-# Hello, Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I am Chandula Janith. I am 13 years old. I am a Grade 8 student in Sri Lanka. I'm eager to learn and create softwares, games and websites. If you like my Mini-Projects show your love 💕 by starring 🌟 my repos
+# 𝙷𝚎𝚕𝚕𝚘, 𝙵𝚘𝚕𝚔𝚜! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+𝙸 𝚊𝚖 𝙲𝚑𝚊𝚗𝚍𝚞𝚕𝚊 𝙹𝚊𝚗𝚒𝚝𝚑. 𝙸 𝚊𝚖 𝟷𝟹 𝚢𝚎𝚊𝚛𝚜 𝚘𝚕𝚍. 𝙸 𝚊𝚖 𝚊 𝙶𝚛𝚊𝚍𝚎 𝟾 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 𝚒𝚗 𝚂𝚛𝚒 𝙻𝚊𝚗𝚔𝚊. 𝙸'𝚖 𝚎𝚊𝚐𝚎𝚛 𝚝𝚘 𝚕𝚎𝚊𝚛𝚗 𝚊𝚗𝚍 𝚌𝚛𝚎𝚊𝚝𝚎 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎𝚜, 𝚐𝚊𝚖𝚎𝚜 𝚊𝚗𝚍 𝚠𝚎𝚋𝚜𝚒𝚝𝚎𝚜. 𝙸𝚏 𝚢𝚘𝚞 𝚕𝚒𝚔𝚎 𝚖𝚢 𝙼𝚒𝚗𝚒-𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚜𝚑𝚘𝚠 𝚢𝚘𝚞𝚛 𝚕𝚘𝚟𝚎 💕 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 🌟 𝚖𝚢 𝚛𝚎𝚙𝚘𝚜
 
 ----------
-### ✍️ Blog and Writing
-Apart from coding, I also maintaining a blog - you can find my articles on my [blog](https://redblog-rededge.vercel.app).
+### ✍️ 𝙱𝚕𝚘𝚐 𝚊𝚗𝚍 𝚆𝚛𝚒𝚝𝚒𝚗𝚐
+𝙰𝚙𝚊𝚛𝚝 𝚏𝚛𝚘𝚖 𝚌𝚘𝚍𝚒𝚗𝚐, 𝙸 𝚊𝚕𝚜𝚘 𝚖𝚊𝚒𝚗𝚝𝚊𝚒𝚗𝚒𝚗𝚐 𝚊 𝚋𝚕𝚘𝚐 - 𝚢𝚘𝚞 𝚌𝚊𝚗 𝚏𝚒𝚗𝚍 𝚖𝚢 𝚊𝚛𝚝𝚒𝚌𝚕𝚎𝚜 𝚘𝚗 𝚖𝚢 [𝚋𝚕𝚘𝚐](https://redblog-rededge.vercel.app).
 
 ----------
 ### 💻 Languages
