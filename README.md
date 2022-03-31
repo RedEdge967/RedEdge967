@@ -47,7 +47,7 @@ Apart from Coding, I am also maintaining a blog - You can find my articles on my
   <a href= "https://www.linkedin.com/in/chandula-janith-is-here/">
     <img src="https://img.icons8.com/ios-glyphs/30/fa314a/linkedin.png"/>
   </a>
-  <a href= "https://rededge.vercel.app">
+  <a href= "https://rededge.is-a.dev">
     <img src="https://img.icons8.com/ios-glyphs/30/fa314a/internet--v1.png"/>
   </a>
   <a href="mailto:janithc967@gmail.com">
