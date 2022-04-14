@@ -1,34 +1,26 @@
-<img SRC="./banners/Banner 2.png" width="100%">
+<img src="https://github.com/RedEdge967/RedEdge967/blob/main/banners/Banner%202.png" width="100%">
+<h1 align="center">Hello! I'm Chandula Janith <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"></h1>
+<p align="center">I am Chandula Janith (he/him). I am 13 years old. I am a Grade 8 student in Sri Lanka. I am eager to learn and create softwares, games and websites. If you like my Mini-projects, show your love 💕 by starring 🌟 my repos.</p>
 
-# Hello, Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I am Chandula Janith (he/him). I am 13 years old. I am a Grade 8 student in Sri Lanka. I am eager to learn and create softwares, games and websites. If you like my Mini-projects, show your love 💕 by starring 🌟 my repos.
+<h3 align="center">✍️ Blog and Writing</h3>
+<p align="center">Apart from Coding, I am also maintaining a blog - You can find my articles on my <a href="https://redblog-rededge.vercel.app">blog</a>.</p>
 
-----------
-### ✍️ Blog and Writing
-Apart from Coding, I am also maintaining a blog - You can find my articles on my [blog](https://redblog-rededge.vercel.app).
+<h3 align="center">💻 Languages I use</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,svelte,ts,c,cpp,java,py,php&theme=dark"></p>
 
-----------
-### 💻 Languages
+<h3 align="center">🔧 Technologies I use</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=angular,bootstrap,tailwind,gatsby,nodejs,react,jquery,figma,vscode,discord&theme=dark"></p>
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,svelte,ts,c,cpp,java,py,php&theme=dark)
+<h3 align="center">📂 Projects I have done</h3>
 
-----------
-### 🔧 Technologies
+|![](https://github-readme-stats.vercel.app/api/pin/?username=RedEdge967&repo=Spider-Man&theme=radical)|![](https://github-readme-stats.vercel.app/api/pin/?username=RedEdge967&repo=Keyboard-Hero&theme=radical)|
+|-|-|
+|![](https://github-readme-stats.vercel.app/api/pin/?username=RedEdge967&repo=win11-web&theme=radical)|![](https://github-readme-stats.vercel.app/api/pin/?username=RedEdge967&repo=MK-Wiki&theme=radical)|
 
-![My Skills](https://skillicons.dev/icons?i=angular,bootstrap,tailwind,gatsby,nodejs,react,jquery,figma,vscode,discord&theme=dark)
+<h3 align="center">📈 What I have been Up to</h3>
 
-----------
-### 📂 Projects
-
-[![](https://img.shields.io/badge/-📱%20My%20Website-000)](https://github.com/RedEdge967/RedEdge967.github.io)
-[![](https://img.shields.io/badge/-💻%20Macos%20Web-000)](https://github.com/RedEdge967/Macos-CSS)
-[![](https://img.shields.io/badge/-🖥️%20Win11%20Web-000)](https://github.com/RedEdge967/win11-web)
-[![](https://img.shields.io/badge/-📝%20Micro%20code%20editor-000)](https://github.com/RedEdge967/micro-code-editor)
-[![](https://img.shields.io/badge/-⌨️%20Keyboard%20Hero-000)](https://github.com/RedEdge967/Keyboard-Hero)
-[![](https://img.shields.io/badge/-🕷️%20Spider%20Man-000)](https://github.com/RedEdge967/Spider-Man)
-[![](https://img.shields.io/badge/-🖥️%20redOS-000)](https://github.com/RedEdge967/redOS)
-
-----------
 |![](https://github-readme-stats.vercel.app/api?username=RedEdge967&&show_icons=true&theme=radical)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=RedEdge967&layout=compact&theme=radical&langs_count=10)|
 |-|-|
 
@@ -56,8 +48,9 @@ Apart from Coding, I am also maintaining a blog - You can find my articles on my
   <a href="https://discordapp.com/users/931930701463437334">
     <img src="https://img.icons8.com/ios-glyphs/30/fa314a/discord.png"/>
   </a>
-  
------
+</p>
+
+------
 
 <div align="center">
    <strong>
