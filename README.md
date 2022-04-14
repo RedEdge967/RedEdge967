@@ -1,4 +1,4 @@
-<img src="https://github.com/RedEdge967/RedEdge967/blob/patch-1/banners/Banner%202.png" width="100%">
+<img src="https://github.com/RedEdge967/RedEdge967/blob/main/banners/Banner%202.png" width="100%">
 <h1 align="center">Hello! I'm Chandula Janith <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"></h1>
 <p align="center">I am Chandula Janith (he/him). I am 13 years old. I am a Grade 8 student in Sri Lanka. I am eager to learn and create softwares, games and websites. If you like my Mini-projects, show your love 💕 by starring 🌟 my repos.</p>
 
