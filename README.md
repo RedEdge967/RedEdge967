@@ -23,20 +23,20 @@
 
 <h3 align="center">📂 ᑭᖇOᒍEᑕTᔕ I ᕼᗩᐯE ᗪOᑎE</h3>
 
-|![](https://github-readme-stats.vercel.app/api/pin/?username=RedEdge967&repo=Spider-Man&theme=radical)|![](https://github-readme-stats.vercel.app/api/pin/?username=RedEdge967&repo=Keyboard-Hero&theme=radical)|
+|![](https://github-readme-stats.vercel.app/api/pin/?username=RedEdge967&repo=Spider-Man&theme=onedark)|![](https://github-readme-stats.vercel.app/api/pin/?username=RedEdge967&repo=Keyboard-Hero&theme=onedark)|
 |-|-|
-|![](https://github-readme-stats.vercel.app/api/pin/?username=RedEdge967&repo=win11-web&theme=radical)|![](https://github-readme-stats.vercel.app/api/pin/?username=RedEdge967&repo=MK-Wiki&theme=radical)|
+|![](https://github-readme-stats.vercel.app/api/pin/?username=RedEdge967&repo=win11-web&theme=onedark)|![](https://github-readme-stats.vercel.app/api/pin/?username=RedEdge967&repo=MK-Wiki&theme=onedark)|
 
 -----
 
 <h3 align="center">📈 ᗯᕼᗩT I ᕼᗩᐯE ᗷEEᑎ ᑌᑭTO</h3>
 
-|![](https://github-readme-stats.vercel.app/api?username=RedEdge967&&show_icons=true&theme=radical)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=RedEdge967&layout=compact&theme=radical&langs_count=10)|
+|![](https://github-readme-stats.vercel.app/api?username=RedEdge967&&show_icons=true&theme=onedark)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=RedEdge967&layout=compact&theme=onedark&langs_count=10)|
 |-|-|
 
-|![trophy](https://github-profile-trophy.vercel.app/?username=RedEdge967&theme=radical&row=1&column=7)|
+|![trophy](https://github-profile-trophy.vercel.app/?username=RedEdge967&theme=onedark&row=1&column=7)|
 |-|
-|![](https://activity-graph.herokuapp.com/graph?username=RedEdge967&theme=redical)|
+|![](https://activity-graph.herokuapp.com/graph?username=RedEdge967&theme=one-dark)|
 
 <p align="center">
 <br>
