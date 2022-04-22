@@ -1,4 +1,4 @@
-<img src="https://github.com/RedEdge967/RedEdge967/blob/main/banners/Banner%202.png" width="100%">
+<img src="https://github.com/RedEdge967/RedEdge967/blob/main/banners/Banner%201.png" width="100%">
 <h1 align="center">ᕼEᒪᒪO! I'ᗰ ᑕᕼᗩᑎᗪᑌᒪᗩ ᒍᗩᑎITᕼ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"></h1>
 <p align="center">I ᗩᗰ ᑕᕼᗩᑎᗪᑌᒪᗩ ᒍᗩᑎITᕼ (ᕼE/ᕼIᗰ). I ᗩᗰ 13 YEᗩᖇᔕ Oᒪᗪ. I ᗩᗰ ᗩ GᖇᗩᗪE 8 ᔕTᑌᗪEᑎT Iᑎ ᔕᖇI ᒪᗩᑎKᗩ. I ᗩᗰ EᗩGEᖇ TO ᒪEᗩᖇᑎ ᗩᑎᗪ ᑕᖇEᗩTE ᔕOᖴTᗯᗩᖇEᔕ, GᗩᗰEᔕ ᗩᑎᗪ ᗯEᗷᔕITEᔕ. Iᖴ YOᑌ ᒪIKE ᗰY ᗰIᑎI-ᑭᖇOᒍEᑕTᔕ,ᔕᕼOᗯ YOᑌᖇ ᒪOᐯE 💕 ᗷY ᔕTᗩᖇᖇIᑎG 🌟 ᗰY ᖇEᑭOᔕ.</p>
 
