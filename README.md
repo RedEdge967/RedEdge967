@@ -1,27 +1,27 @@
 <img SRC="https://user-images.githubusercontent.com/91379432/150557985-1cc05674-2a87-4061-a0bb-3391dab5896d.png" width="100%">
-<h1 align="center">ᕼEᒪᒪO! I'ᗰ ᑕᕼᗩᑎᗪᑌᒪᗩ ᒍᗩᑎITᕼ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"></h1>
-<p align="center">I ᗩᗰ ᑕᕼᗩᑎᗪᑌᒪᗩ ᒍᗩᑎITᕼ (ᕼE/ᕼIᗰ). I ᗩᗰ 13 YEᗩᖇᔕ Oᒪᗪ. I ᗩᗰ ᗩ GᖇᗩᗪE 8 ᔕTᑌᗪEᑎT Iᑎ ᔕᖇI ᒪᗩᑎKᗩ. I ᗩᗰ EᗩGEᖇ TO ᒪEᗩᖇᑎ ᗩᑎᗪ ᑕᖇEᗩTE ᔕOᖴTᗯᗩᖇEᔕ, GᗩᗰEᔕ ᗩᑎᗪ ᗯEᗷᔕITEᔕ. Iᖴ YOᑌ ᒪIKE ᗰY ᗰIᑎI-ᑭᖇOᒍEᑕTᔕ,ᔕᕼOᗯ YOᑌᖇ ᒪOᐯE 💕 ᗷY ᔕTᗩᖇᖇIᑎG 🌟 ᗰY ᖇEᑭOᔕ.</p>
+<h1 align="center">Hello! I'm Chandula Janith <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"></h1>
+<p align="center">I am Chandula janith (he/him). I am 13 years old. I am a grade 8 student in sri lanka. i am eager to learn and create softwares, website and games. if you like my mini projects, show your love by staring them.</p>
 
 -----
 
-<h3 align="center">✍️ ᗷᒪOG ᗩᑎᗪ ᗯᖇITIᑎG</h3>
-<p align="center">ᗩᑭᗩᖇT ᖴᖇOᗰ ᑕOᗪIᑎG, I ᗩᗰ ᗩᒪᔕO ᗰᗩIᑎTᗩIᑎIᑎG ᗩ ᗷᒪOG - YOᑌ ᑕᗩᑎ ᖴIᑎᗪ ᗰY ᗩᖇTIᑕᒪEᔕ Oᑎ ᗰY <a href="https://redblog-rededge.vercel.app">ᗷᒪOG</a>.</p>
+<h3 align="center">✍️ Blog and Writing</h3>
+<p align="center">Apart from coding I am also maintaining a blog - you canfindmy articles on my <a href="https://redblog-rededge.vercel.app">blog</a>.</p>
 
 -----
 
-<h3 align="center">💻 ᒪᗩᑎGᑌᗩGEᔕ I ᑌᔕE</h3>
+<h3 align="center">💻 Languages I use</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,svelte,ts,c,cpp,java,py,php&theme=dark"></p>
 
 -----
 
-<h3 align="center">🔧 TEᑕᕼᑎOᒪOGIEᔕ I ᑌᔕE</h3>
+<h3 align="center">🔧 Technologies I use</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=angular,bootstrap,tailwind,gatsby,nodejs,react,jquery,figma,vscode,discord&theme=dark"></p>
 
 -----
 
-<h3 align="center">📂 ᑭᖇOᒍEᑕTᔕ I ᕼᗩᐯE ᗪOᑎE</h3>
+<h3 align="center">📂 Projects I have done</h3>
 
 |![](https://github-readme-stats.vercel.app/api/pin/?username=RedEdge967&repo=Spider-Man&theme=onedark)|![](https://github-readme-stats.vercel.app/api/pin/?username=RedEdge967&repo=Keyboard-Hero&theme=onedark)|
 |-|-|
@@ -29,7 +29,7 @@
 
 -----
 
-<h3 align="center">📈 ᗯᕼᗩT I ᕼᗩᐯE ᗷEEᑎ ᑌᑭTO</h3>
+<h3 align="center">📈 What I have been up to</h3>
 
 |![](https://github-readme-stats.vercel.app/api?username=RedEdge967&&show_icons=true&theme=onedark)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=RedEdge967&layout=compact&theme=onedark&langs_count=10)|
 |-|-|
@@ -65,7 +65,7 @@
 <div align="center">
    <strong>
    <font size="+2" style="font">
-   ℝ𝕖𝕕𝔼𝕕𝕘𝕖𝟡𝟞𝟟 © 𝟚𝟘𝟚𝟚
+   RedEdge967 © 2022
    </font>
    </strong>
 </div>
