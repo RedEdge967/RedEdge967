@@ -1,5 +1,5 @@
 # Hey There! 👋
-**I'm Chandula (he/him)** - I'm a fullstack developer, designer, and school student based in Sri Lanka. I'm interested in developing websites, games and more. I work on random projects in my free time, a lot. Currently trying to make a little fighting game.
+**I'm Chandula Janith (he/him)** - I'm a fullstack developer, designer, and a school student based in Sri Lanka. I'm interested in developing websites, games and more. I work on random projects in my free time, a lot. Currently trying to make a little fighting game.
 
 ![Skills](https://skillicons.dev/icons?i=html,css,js,py,svelte,ts,bootstrap,gatsby,react,angular,vscode,figma&perline=6)
 
